@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: "NEUMORPHISM UI",
   tagline: "Universal Neumorphism components built for React Native",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://awaitstack.github.io/neumorphism-ui/",
+  baseUrl: "/neumorphism-ui/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "awaitstack", // Usually your GitHub org/user name.
+  projectName: "neumorphism-ui", // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [

@@ -1,8 +1,7 @@
 ---
+title: Installation
 sidebar_position: 1
 ---
-
-# Installation
 
 **Neumorphism UI** is supported in React Native CLI initiated apps. For Expo projects is coming soon.
 
