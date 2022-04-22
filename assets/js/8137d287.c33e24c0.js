@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneumorphism_ui=self.webpackChunkneumorphism_ui||[]).push([[935],{3769:function(u){u.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);

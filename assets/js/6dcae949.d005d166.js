@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneumorphism_ui=self.webpackChunkneumorphism_ui||[]).push([[120],{1924:function(u){u.exports=JSON.parse('{"allTagsPath":"/neumorphism-ui/blog/tags","name":"docusaurus","count":4,"permalink":"/neumorphism-ui/blog/tags/docusaurus"}')}}]);
