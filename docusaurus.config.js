@@ -44,6 +44,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "1OMCPA39OP",
+
+        // Public API key: it is safe to commit it
+        apiKey: "54b5e174f74bc71900759e76744345f9",
+
+        indexName: "neumorphism-ui",
+
+        // Optional: see doc section below
+        contextualSearch: true,
+
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: "search",
+      },
       metadata: [
         {
           name: "neumorphism ui",
