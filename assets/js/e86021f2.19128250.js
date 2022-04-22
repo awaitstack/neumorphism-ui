@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneumorphism_ui=self.webpackChunkneumorphism_ui||[]).push([[228],{7085:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-theme-search-algolia","id":"default"}}')}}]);
