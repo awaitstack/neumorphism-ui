@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkneumorphism_ui=self.webpackChunkneumorphism_ui||[]).push([[332],{3967:function(s){s.exports=JSON.parse('{"allTagsPath":"/neumorphism-ui/blog/tags","name":"hola","count":1,"permalink":"/neumorphism-ui/blog/tags/hola"}')}}]);
